@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/2040battleRoyale/static/css/main.c329bcd6.chunk.css",
+    "main.js": "/2040battleRoyale/static/js/main.528ac5a6.chunk.js",
+    "main.js.map": "/2040battleRoyale/static/js/main.528ac5a6.chunk.js.map",
+    "runtime-main.js": "/2040battleRoyale/static/js/runtime-main.0b909f8a.js",
+    "runtime-main.js.map": "/2040battleRoyale/static/js/runtime-main.0b909f8a.js.map",
+    "static/js/2.4040c97c.chunk.js": "/2040battleRoyale/static/js/2.4040c97c.chunk.js",
+    "static/js/2.4040c97c.chunk.js.map": "/2040battleRoyale/static/js/2.4040c97c.chunk.js.map",
+    "index.html": "/2040battleRoyale/index.html",
+    "static/css/main.c329bcd6.chunk.css.map": "/2040battleRoyale/static/css/main.c329bcd6.chunk.css.map",
+    "static/js/2.4040c97c.chunk.js.LICENSE.txt": "/2040battleRoyale/static/js/2.4040c97c.chunk.js.LICENSE.txt",
+    "static/media/_aboutPage.scss": "/2040battleRoyale/static/media/about-bg.604d1e43.svg",
+    "static/media/about.2124b653.webp": "/2040battleRoyale/static/media/about.2124b653.webp",
+    "static/media/_cards.scss": "/2040battleRoyale/static/media/box-4.18c24ae2.webp",
+    "static/media/bullet.a4a6829c.webp": "/2040battleRoyale/static/media/bullet.a4a6829c.webp",
+    "static/media/common-crate.d5052d38.png": "/2040battleRoyale/static/media/common-crate.d5052d38.png",
+    "static/media/contact.742aadb8.png": "/2040battleRoyale/static/media/contact.742aadb8.png",
+    "static/media/crate.dff9a5f3.png": "/2040battleRoyale/static/media/crate.dff9a5f3.png",
+    "static/media/epic-crate.4ef84b08.png": "/2040battleRoyale/static/media/epic-crate.4ef84b08.png",
+    "static/media/eth.d99f62c3.svg": "/2040battleRoyale/static/media/eth.d99f62c3.svg",
+    "static/media/_benefits.scss": "/2040battleRoyale/static/media/grid-background.299da391.svg",
+    "static/media/hero-image.4d6595ce.webp": "/2040battleRoyale/static/media/hero-image.4d6595ce.webp",
+    "static/media/logo.84476346.svg": "/2040battleRoyale/static/media/logo.84476346.svg",
+    "static/media/play-btn.4c342f2b.svg": "/2040battleRoyale/static/media/play-btn.4c342f2b.svg",
+    "static/media/rare-crate.9fbac457.png": "/2040battleRoyale/static/media/rare-crate.9fbac457.png",
+    "static/media/regular-crate.dbbfc4e8.png": "/2040battleRoyale/static/media/regular-crate.dbbfc4e8.png",
+    "static/media/_crate.scss": "/2040battleRoyale/static/media/smoke-background.03778016.png",
+    "static/media/tick.77a1f58b.svg": "/2040battleRoyale/static/media/tick.77a1f58b.svg",
+    "static/media/video-placeholder.7e3c1f3b.png": "/2040battleRoyale/static/media/video-placeholder.7e3c1f3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b909f8a.js",
+    "static/js/2.4040c97c.chunk.js",
+    "static/css/main.c329bcd6.chunk.css",
+    "static/js/main.528ac5a6.chunk.js"
+  ]
+}
