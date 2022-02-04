@@ -1,0 +1,59 @@
+#benefits{
+    background: url(../../assets/grid-background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -13rem;
+    padding-top: 30rem;
+    padding-bottom: 10rem;
+
+    & .container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        @media only screen and (max-width: 1000px) {
+            flex-direction: column;
+
+            & > img{
+                width: 100%;
+                margin-bottom: 4rem;
+            }
+        }
+        
+
+        & .benefits-content{
+
+            & h2{
+                margin-bottom: 3rem;
+            }
+
+            & .benefits-list{
+                margin-bottom: 4rem;
+
+                & li{
+                    display: flex;
+                    align-items: center;
+                    color: #ABADBF;
+                    font-size: 1.4rem;
+
+                    & img{
+                        margin-right: 2rem;
+                    }
+
+                    &:not(:last-child){
+                        margin-bottom: 2rem;
+                    }
+                }
+            }
+
+            & .benefeits-btns{
+                display: flex;
+
+                @media only screen and (max-width: 500px) {
+                    flex-direction: column;
+                    align-items: flex-start;
+                }
+            }
+        }
+    }
+}
